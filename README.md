@@ -86,10 +86,3 @@ Use fictional details only. Name, phone and delivery address are validated in co
 | Automated rule tests | `src/rules/businessRules.test.js` |
 | Security / plain-text handling | `src/utils/security.js`, `src/pages/Cart.jsx` |
 
-## Submission details — complete before upload
-- **Student name:** [ADD]
-- **Roll number:** [ADD]
-- **Section:** [ADD]
-- **GitHub repository:** [ADD REAL PUBLIC URL]
-- **Deployment:** [ADD REAL PUBLIC URL]
-- **Final commit hash:** [ADD REAL HASH]
